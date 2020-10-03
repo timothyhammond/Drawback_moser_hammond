@@ -14,3 +14,7 @@ Tim created the project
 2.) Lakin Changed mouth height to 30. Mouth is now open.
 
 2.) Tim changed the cat color from black to green
+
+3.) Lakin made the cats eyes squint
+
+3.) Tim made the cat say moooo instead of meow
